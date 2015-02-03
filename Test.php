@@ -6,4 +6,9 @@ class Test
     {
         return time();
     }
+    
+    public function t1()
+    {
+        echo time();
+    }
 }
