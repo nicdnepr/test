@@ -2,8 +2,8 @@
 
 class Test
 {
-	public function t()
-	{
-		return time();
-	}
+    public function t()
+    {
+        return time();
+    }
 }
