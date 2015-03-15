@@ -11,4 +11,8 @@ class Test
     {
         echo time();
     }
+    
+    public function new()
+    {
+    }
 }
