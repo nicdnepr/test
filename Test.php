@@ -12,7 +12,8 @@ class Test
         echo time();
     }
     
-    public function new()
+        
+    public function newFunc()
     {
     }
 }
