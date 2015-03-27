@@ -13,7 +13,7 @@ class Test
     }
     
         
-    public function newFunc0000()
+    public function newFunc()
     {
     }
 }
