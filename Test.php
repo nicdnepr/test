@@ -2,7 +2,7 @@
 
 class Test
 {
-    public function tOld()
+    public function tOld1()
     {
         return time();
     }
