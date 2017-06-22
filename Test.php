@@ -2,7 +2,7 @@
 
 class Test
 {
-    public function t()
+    public function tNew()
     {
         return time();
     }
